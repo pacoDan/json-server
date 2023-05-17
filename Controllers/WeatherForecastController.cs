@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace json_server7.Controllers
+namespace json_server8.Controllers
 {
     [ApiController]
     [Route("[controller]")]
