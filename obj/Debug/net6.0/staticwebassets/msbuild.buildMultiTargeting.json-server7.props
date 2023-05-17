@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\json-server7.props" />
+</Project>

@@ -1,8 +1,8 @@
-namespace json_server6
+namespace json_server7
 {
     public class WeatherForecast
     {
-        public DateOnly Date { get; set; }
+        public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
 

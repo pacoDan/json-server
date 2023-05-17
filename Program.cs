@@ -1,5 +1,4 @@
-
-namespace json_server6
+namespace json_server7
 {
     public class Program
     {
@@ -22,6 +21,8 @@ namespace json_server6
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseHttpsRedirection();
 
             app.UseAuthorization();
 
